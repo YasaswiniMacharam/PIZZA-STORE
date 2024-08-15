@@ -47,11 +47,13 @@ Dependencies
 •	Tilt
 •	React Lazy Load
 •	Framer Motion
+
 Useful Resources
 •	HTML to JSX: Tool to convert HTML to JSX.
 •	Lorem Ipsum: Dummy text generator.
 •	Leaflet: Map API used for the store's location feature.
 •	Icons8: Collection of icons for use in projects.
 •	TinyPNG: Image compression tool.
+
 Conclusion
 Pizza Time represents a significant step in my journey as a developer, allowing me to apply and expand my skills in React and web development. By focusing on user experience, efficient data management, and streamlined UI, I was able to create a functional and visually appealing e-commerce platform. This project not only showcases my technical abilities but also reflects my commitment to building practical, user-friendly applications. As I continue to grow as a developer, Pizza Time will serve as a foundation for future projects and a testament to the power of combining creativity with technology.
